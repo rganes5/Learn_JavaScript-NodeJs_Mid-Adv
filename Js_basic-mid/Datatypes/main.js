@@ -25,13 +25,14 @@ const data=null
  
 // Symbol - unchangeable value
 
+//*********//
 //Non Primitive - collection of value
 
 // Object - complex datatypes and defined as key value pairs
 
 const person= {
     'firstName': 'Bruce',
-    'lasttName':'Wayne',
+    'lastName':'Wayne',
     'age':25,
 }
 
